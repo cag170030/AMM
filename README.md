@@ -11,10 +11,10 @@ The site is live at the following *obscure* link: [https://cag170030.github.io/a
  
 ## To do
 1. Write out general group info on index.html
-2. Finish populating publications.html
-3. Add alumni to people.html
-4. Populate research.html with topics
-5. Ask Sam P. for resources to add to resources.html (longer term)
+2. Add alumni to people.html
+3. Populate research.html with topics
+4. Ask Sam P. for resources to add to resources.html (longer term)
+5. Add space between publications to make list more readable
 
 ## To discuss
 1. In people.html, should all the profile pics be the same square size? Or is it okay the way it is?
