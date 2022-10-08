@@ -17,7 +17,7 @@ The site is live at the following *obscure* link: [https://cag170030.github.io/a
 5. ~~Add space between publications to make list more readable~~ (done)
 
 ## To discuss
-1. In people.html, should all the profile pics be the same square size? Or is it okay the way it is?
+1. ~~In people.html, should all the profile pics be the same square size? Or is it okay the way it is?~~ (It was looking shabby, so I went ahead and converted them all to square profile pics.)
 2. What do you think of the font across the site?
 3. We can discuss domain names--I've found that Google Domains is very easy and cheap. Maybe we can choose a .org or .edu? 
 
