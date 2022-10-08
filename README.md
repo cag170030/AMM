@@ -1,9 +1,10 @@
 # Haberman Group Website
 
-[https://cag170030.github.io/amm/index.html](https://cag170030.github.io/amm/index.html)
+The site is live at the following *obscure* link: [https://cag170030.github.io/amm/index.html](https://cag170030.github.io/amm/index.html) This will change when we establish a custom domain.
 
 ## What you need to know
-1. index.html is the "Home" page. Line 71 is the description of the group.
+1. [index.htmlhttps://github.com/cag170030/amm/blob/main/index.html]()  is the "Home" page. Line 71 is the description of the group.
+1. [index.html]()  is the "Home" page. Line 71 is the description of the group.
 2. research.html is the "Research" page. Lines 68-95 will contain info about the research topics.
 3. people.html is the "People" page. Lines 66 on contain info about group members.
 4. publications.html is the "Publications" page. 
