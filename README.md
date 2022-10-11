@@ -12,9 +12,10 @@ The site is live at the following *obscure* link: [https://cag170030.github.io/a
 ## To do
 1. I've written out general group info/introductory information on index.html, but please look over it and edit accordingly.
 2. ~~Add alumni to people.html~~ (Check the formatting--I chose bullets, not numbers, because it looks like a "class ranking" with numbers attached to people's names--but it's easy to change to numbers if you'd like that).
-* I should add the thesis/dissertation titles and co-advisors (if they have one) of all of the alumni. Ideally, we could also link to their thesis and dissertations on the (https://repositories.lib.utexas.edu/handle/2152/11). That's pretty easy, but takes a little time.
-3. Populate research.html with topics--I've added four topics which I believe reflects the work of the group, but I'm sure there's a better way to organize this.
-4. Ask Sam P. for resources to add to resources.html (longer term)
+3. I should add the thesis/dissertation titles and co-advisors (if they have one) of all of the alumni. Ideally, we could also link to their thesis and dissertations on the (https://repositories.lib.utexas.edu/handle/2152/11). That's pretty easy, but takes a little time.
+4. We need bios/pictures of the following: Christina, Nate, Sam W., Ben G., Tyler M. Maybe I can knock this out at a group meeting/seminar where some of these folks are present. 
+5. Populate research.html with topics--I've added four topics which I believe reflects the work of the group, but I'm sure there's a better way to organize this.
+6. Ask Sam P. for resources to add to resources.html (longer term)
 
 ## To discuss
 1. ~~In people.html, should all the profile pics be the same square size? Or is it okay the way it is? (It was looking shabby, so I went ahead and converted them all to square profile pics.)~~
