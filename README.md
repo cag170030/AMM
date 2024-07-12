@@ -1,12 +1,12 @@
 # Haberman Group Website
 
-The site is live at the following *obscure* link: [https://cag170030.github.io/amm/index.html](https://cag170030.github.io/amm/index.html) This will change when we establish a custom domain.
+The site is live at the following *obscure* link: [https://chiragokani.github.io/amm/](https://chiragokani.github.io/amm/). This will change when we establish a custom domain.
 
 ## What you need to know
-1. [index.html](https://github.com/cag170030/amm/blob/main/index.html)  is the "Home" page. Line 71 is the description of the group.
-2. [research.html](https://github.com/cag170030/amm/blob/main/research.html) is the "Research" page. Lines 68-95 will contain info about the research topics.
-3. [people.html](https://github.com/cag170030/amm/blob/main/people.html)  is the "People" page. Line 66 & onwards contains info about group members.
-4. [publications.html](https://github.com/cag170030/amm/blob/main/publications.html) is the "Publications" page. 
+1. [index.html](https://chiragokani.github.io/amm/index.html)  is the "Home" page. Line 71 in the associated HTML file is the description of the group.
+2. [research.html](https://chiragokani.github.io/amm/research.html) is the "Research" page. Lines 68-95 in the associated HTML will contain info about the research topics.
+3. [people.html](https://chiragokani.github.io/amm/people.html)  is the "People" page. Line 66 & onwards contains info about group members.
+4. [publications.html](https://chiragokani.github.io/amm/publications.html) is the "Publications" page. 
 5. resources.html is encrypted and cannot be edited on GitHub. I have an encryption code that I can run on my computer. So, whenever this page needs to be edited, it should be edited on a local drive, and then be re-encrypted and re-uploaded to GitHub.
  
 ## To do
